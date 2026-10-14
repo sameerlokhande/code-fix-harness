@@ -199,3 +199,4 @@ Traditional AI code generation agents rely on fragile multi-turn tool-calling lo
 1. **Docker Container Backend**: Optional containerized sandbox execution for unverified C/Rust binary compilation.
 2. **Multi-Model Routing**: Dynamic routing between local Ollama models and cloud APIs (Claude 3.7 Sonnet, GPT-4o) when higher reasoning capacity is required.
 3. **Automated GitHub Issue Webhook**: GitHub Action integration to auto-remediate incoming GitHub Issues and open draft PRs without human intervention.
+
