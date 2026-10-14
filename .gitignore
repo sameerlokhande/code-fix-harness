@@ -1,0 +1,14 @@
+# Python virtual environments & bytecode
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Secrets & Environment variables
+.env
+*.env
+
+# Build & test artifacts
+remediation.patch
+.pytest_cache/
+*.log
